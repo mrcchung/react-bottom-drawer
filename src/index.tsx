@@ -85,7 +85,6 @@ const SlideUpTransition = ({
               }}
             >
               <div {...swipeHandlers} className={classNames.handleWrapper}>
-                <div className={classNames.handle} />
               </div>
               <div className={classNames.contentWrapper}>{children}</div>
             </div>

@@ -48,7 +48,7 @@ const globalStylesheet = (
     bottom: 0;
     max-height: 70vh;
     width: 100vw;
-    background: white;
+    background: rgb(115, 66, 224);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     transition: transform ${duration}ms;
